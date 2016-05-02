@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot00reicgoog_0575.png"; bbox 0 0 1163 2023; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 362 1024 1563">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 362 1024 1563">
+     <span class='ocr_line' id='line_1_1' title="bbox 163 362 1024 1563; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 163 362 1024 1563; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 161 1546 993 1683">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 161 1546 993 1683">
+     <span class='ocr_line' id='line_1_2' title="bbox 573 1546 585 1556; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 573 1546 585 1556; x_wconf 66' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 439 1569 700 1624; baseline 0.008 -21"><span class='ocrx_word' id='word_1_3' title='bbox 439 1569 591 1617; x_wconf 54' lang='lat' dir='ltr'><em>fflqastas.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 635 1614 638 1617; x_wconf 22' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 697 1621 700 1624; x_wconf 27' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 311 1607 782 1644; baseline 0.013 -12"><span class='ocrx_word' id='word_1_6' title='bbox 311 1607 624 1644; x_wconf 53' lang='lat' dir='ltr'><em>Jodmtoffia.hcz-Sofl</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 634 1618 782 1638; x_wconf 47' lang='grc' dir='ltr'><em>’κον-«Λάκαμὶ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 161 1645 993 1683; baseline 0.01 -23"><span class='ocrx_word' id='word_1_8' title='bbox 161 1645 327 1662; x_wconf 54' lang='lat' dir='ltr'><em>{MJCL&#39;BAAEM</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 770 1678 784 1683; x_wconf 91' lang='lat'><em>..</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 858 1649 947 1667; x_wconf 48' lang='lat' dir='ltr'><em>ashu-</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 955 1656 993 1683; x_wconf 48' lang='lat' dir='ltr'><em>jau</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
